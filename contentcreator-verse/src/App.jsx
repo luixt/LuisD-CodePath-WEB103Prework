@@ -10,7 +10,7 @@ import { Link } from 'react-router-dom'
 
 const App = () => {
   
-  const comments = [
+  const creators = [
     
   ]
  
@@ -25,10 +25,10 @@ const App = () => {
     },
     {
       path:"/edit/:id",
-      element: <EditContent data={comments} />
+      element: <EditContent data={creators} />
     },
     {
-      path:"/comments/:id",
+      path:"/creators/:id",
       element: <ViewContent />
     },
     {
@@ -45,7 +45,7 @@ const App = () => {
         <h1>Content Creator Verse</h1>
         <input
           type="text"
-          placeholder="Search posts..."
+          placeholder="Search content creator..."
           value={searchQuery}
           onChange={(e) => setSearchQuery(e.target.value)} // Update searchQuery
           className="search-bar"
