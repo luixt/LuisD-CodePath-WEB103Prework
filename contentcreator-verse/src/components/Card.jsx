@@ -55,6 +55,9 @@ const Card = (props) => {
       <Link to={'/creators/' + props.id} className="card-link">
         <h2>{props.title}</h2>
       </Link>
+
+      <img className="ContentDetailCard-img" alt={props.title} src={props.image} />
+
       <p>{props.description}</p>
       <br />
       <div className="likes">

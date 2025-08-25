@@ -75,3 +75,10 @@
     margin-top: 5px;
     font-style: italic;
   }
+
+.ContentDetailCard-img {
+  max-width: 280px;  
+  max-height: 280px;   
+  display: block;
+  margin: 0 auto;  
+}
