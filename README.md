@@ -39,7 +39,7 @@ Create Post
 <img src='https://i.imgur.com/KMXFUhz.gif' title='Video Walkthrough' width='' alt='Video Walkthrough 1' />
 
 Post Editing / View Details
-<img src='https://i.imgur.com/WrtM8MD.gif' title='Video Walkthrough' width='' alt='Video Walkthrough 2' />
+<img src='https://i.imgur.com/7QUqBq2.gif' title='Video Walkthrough' width='' alt='Video Walkthrough 2' />
 
 Filtering / Likes
 <img src='https://i.imgur.com/FL9tItJ.gif' title='Video Walkthrough' width='' alt='Video Walkthrough 3' />
