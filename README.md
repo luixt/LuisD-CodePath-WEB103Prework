@@ -1,44 +1,54 @@
-# LuisD-CodePath-WEB103Prework# WEB103 Prework - *👉🏿 Name of App Here*
+# LuisD-CodePath-WEB103Prework# WEB103 Prework - *Content Creator Verse*
 
-Submitted by: **👉🏿 your name here**
+Submitted by: **Luis Delgado**
 
-About this web app: **👉🏿 app description here**
+About this web app: **Website to showcase many content creators across the internet, promoting their social media**
 
-Time spent: **👉🏿 X** hours
+Time spent: **12** hours
 
 ## Required Features
 
 The following **required** functionality is completed:
 
 <!-- 👉🏿👉🏿👉🏿 Make sure to check off completed functionality below -->
-- [ ] **A logical component structure in React is used to create the frontend of the app**
-- [ ] **At least five content creators are displayed on the homepage of the app**
-- [ ] **Each content creator item includes their name, a link to their channel/page, and a short description of their content**
-- [ ] **API calls use the async/await design pattern via Axios or fetch()**
-- [ ] **Clicking on a content creator item takes the user to their details page, which includes their name, url, and description**
-- [ ] **Each content creator has their own unique URL**
-- [ ] **The user can edit a content creator to change their name, url, or description**
-- [ ] **The user can delete a content creator**
-- [ ] **The user can add a new content creator by entering a name, url, or description and then it is displayed on the homepage**
+- [X] **A logical component structure in React is used to create the frontend of the app**
+- [X] **At least five content creators are displayed on the homepage of the app**
+- [X] **Each content creator item includes their name, a link to their channel/page, and a short description of their content**
+- [X] **API calls use the async/await design pattern via Axios or fetch()**
+- [X] **Clicking on a content creator item takes the user to their details page, which includes their name, url, and description**
+- [X] **Each content creator has their own unique URL**
+- [X] **The user can edit a content creator to change their name, url, or description**
+- [X] **The user can delete a content creator**
+- [X] **The user can add a new content creator by entering a name, url, or description and then it is displayed on the homepage**
 
 The following **optional** features are implemented:
 
 - [ ] Picocss is used to style HTML elements
 - [ ] The content creator items are displayed in a creative format, like cards instead of a list
-- [ ] An image of each content creator is shown on their content creator card
+- [X] An image of each content creator is shown on their content creator card
 
 The following **additional** features are implemented:
 
-* [ ] List anything else that you added to improve the site's functionality!
+* [X] Filtering functionality (Search, Newest, Popular) to search desired content.
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented required features:
 
-👉🏿<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+Create Post
+<img src='https://i.imgur.com/KMXFUhz.gif' title='Video Walkthrough' width='' alt='Video Walkthrough 1' />
+
+Post Editing / View Details
+<img src='https://i.imgur.com/WrtM8MD.gif' title='Video Walkthrough' width='' alt='Video Walkthrough 2' />
+
+Filtering / Likes
+<img src='https://i.imgur.com/FL9tItJ.gif' title='Video Walkthrough' width='' alt='Video Walkthrough 3' />
+
+Post Deletion
+<img src='https://i.imgur.com/DWP0H95.gif' title='Video Walkthrough' width='' alt='Video Walkthrough 4' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  👉🏿 GIF tool here
+GIF created with ScreentoGIF
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
@@ -46,11 +56,11 @@ GIF created with ...  👉🏿 GIF tool here
 
 ## Notes
 
-Describe any challenges encountered while building the app or any additional context you'd like to add.
+Great project to apply knowledge learned from previous CodePath WEB courses. I had a challenging time with the website design, the organization of elements within the Card component that displays the name, description, image, likes, and social media icons all together.
 
 ## License
 
-Copyright [👉🏿 yyyy] [👉🏿 name of copyright owner]
+Copyright [2025] [Luis Delgado]
 
 Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at
 
